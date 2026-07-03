@@ -3,7 +3,7 @@
 <p>  Goal of KAGA: 
 With our 100% Buyback Guarantee, anyone who buys a Masternode directly through us can recover their original investment of 5,000 KAGA coin (USD 500) through monthly distributions from lottery winnings.
 
-# Sustainable System with Real Capital Recovery
+# Crypto meets Lottery - in loving memory
 
 We strategically leverage system lotteries in the U.S. market to establish a long-term, stable external source of income. This approach allows us to generate continuous revenue independent of traditional market cycles.
 
