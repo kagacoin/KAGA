@@ -1,9 +1,9 @@
 
 <h1>KAGA COIN repository</h1>
-<p>  Goal of KAGA: 
-With our 100% Buyback Guarantee, anyone who buys a Masternode directly through us can recover their original investment of 5,000 KAGA coin (USD 500) through monthly distributions from lottery winnings.
 
 # in loving memory
+
+With our 100% Repurchase Guarantee, anyone who buys a Masternode directly through us can recover their original investment of 5,000 coins (USD 500) through monthly distributions from Algorithmic Yield Reserve.
 
 <p>
 <p>
