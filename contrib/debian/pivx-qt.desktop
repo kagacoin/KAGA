@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=KAGA
+Comment= KAGA P2P Cryptocurrency
+Comment[fr]= KAGA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= KAGA, eşten eşe kriptografik sanal para birimi
+Exec=KAGA-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=KAGA-qt
