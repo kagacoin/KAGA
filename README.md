@@ -14,6 +14,10 @@ With our 100% Repurchase Guarantee, anyone who buys a Masternode directly throug
 <table>
 <tbody>
 <tr>
+<td>Coin Type</td>
+<td>POS + Masternodes</td>
+</tr>
+<tr>
 <td>Masternode Collateral</td>
 <td>5000 KAGA</td>
 </tr>
@@ -22,16 +26,12 @@ With our 100% Repurchase Guarantee, anyone who buys a Masternode directly throug
 <td>KAGA [KAGA]</td>
 </tr>
 <tr>
-<td>Coin Type</td>
-<td>POS + Masternodes</td>
-</tr>
-<tr>
 <td>Block Time</td>
 <td>300 Sec  = 5 Minutes</td>
 </tr>
 <tr>
 <td>Maximum Supply</td>
-<td>11000000 KAGA</td>
+<td>11 000 000 KAGA</td>
 </tr>
 <tr>
 <td>Minimum Stake Age</td>
